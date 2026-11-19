@@ -4,6 +4,6 @@ Requires tmux and vim preinstalled
 ```
 git clone https://github.com/quaver12/myConfig.git
 cd myConfig
-sh setup.sh
+sh runall.sh
 ```
 
