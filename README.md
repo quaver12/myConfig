@@ -1,8 +1,9 @@
-Everything I need to transfer my workflow to any system.
+Basic workflow stuff I like to have on other systems
+Requires tmux and vim preinstalled
 
 ```
 git clone https://github.com/quaver12/myConfig.git
 cd myConfig
-sh gMyBinds.sh
+sh setup.sh
 ```
 

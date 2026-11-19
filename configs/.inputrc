@@ -1,0 +1,3 @@
+#set command lines to use vi binds
+set editing-mode vi
+set keymap vi
