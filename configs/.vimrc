@@ -1,1 +1,1 @@
-" nothing yet
+set relativenumber
